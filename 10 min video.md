@@ -1,0 +1,2 @@
+&#x20;[10 min video](https://yearuptemp-my.sharepoint.com/:v:/g/personal/locelotllopez_my_yearupunited_org/IQAyKuEIWLvnTZFP8eCjVb4ZAXwd47nlpPNpLPMY06obBJ8?e=S6OOIV&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%253D) <----Click here
+
