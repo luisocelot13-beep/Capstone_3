@@ -1,15 +1,15 @@
 # EmporiUm Capstone 3 – Sales & Growth Analysis
 
 ## Overview
-This project analyzes store and online sales data for EmporiUm to identify key performance drivers, regional trends, and growth opportunities. 
+This project analyzes store Sales for the Northeast region and data for EmporiUm to identify key performance drivers, regional trends, and growth opportunities. 
 The focus of the analysis is on understanding strong revenue areas as well as underperforming categories to guide business decisions.
 
 # Objective
-- Identify top-performing categories, states, and store locations
-- Analyze revenue trends over time to detect growth patterns
-- Evaluate underperforming categories and determine areas for improvement
-- Provide actionable insights for business growth and decision-making
-- Build an interactive dashboard to support data-driven exploration
+- Identify top-performing categories, states, and store locations in Northeast.
+- Analyze revenue trends over time to detect growth patterns.
+- Evaluate underperforming categories and determine areas for improvement.
+- Provide actionable insights for business growth and decision-making.
+- Build an interactive dashboard to support data-driven exploration.
 
 
 # Tools & Technologies
